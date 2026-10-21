@@ -1,0 +1,14 @@
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\bin\Debug\net10.0\MealyApp.exe
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\bin\Debug\net10.0\MealyApp.deps.json
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\bin\Debug\net10.0\MealyApp.runtimeconfig.json
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\bin\Debug\net10.0\MealyApp.dll
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\bin\Debug\net10.0\MealyApp.pdb
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.AssemblyInfoInputs.cache
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.AssemblyInfo.cs
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.csproj.CoreCompileInputs.cache
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.dll
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\refint\MealyApp.dll
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.pdb
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\MealyApp.genruntimeconfig.cache
+C:\Users\Jaymee\OneDrive\Documents\School\MealyApp\obj\Debug\net10.0\ref\MealyApp.dll
